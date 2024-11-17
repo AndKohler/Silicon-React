@@ -16,6 +16,6 @@ VG: <br/>
 ❌ - Sidorna måste vara responsiva. (***Jag har bara gjort Desktop Only med fast width på 1920px enligt figma***) <br/>
 ❌ - En mobilanpassad meny måste finnas som fungerar. Design väljer du själv. <br/>
 ❌ - Du ska använda dig av useState, useEffect och useContext på lämpliga ställen. (***Har bara använt useEffect & useState***) <br/>
-✅ - Alla formulär på sidan måste valideras med hjälp av regular expressions. <br/>
+✅ - Alla formulär på sidan måste valideras med hjälp av regular expressions. (***Endast subscribe så jag ej gjort contact formulären***) <br/>
 ✅ - Alla formulär ska kunna skicka iväg data till web apiet och sedan visa ett bekräftelsemeddelande på att formuläret skickats iväg eller att man registrerat sig för nyhetsbrev. <br/>
 
