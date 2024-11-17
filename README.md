@@ -1,8 +1,21 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+JavaScript Frontend Inlämningsuppgift
+Klass: WIN-24
 
-Currently, two official plugins are available:
+G:
+✅ - Du ska bygga upp en sida med hjälp av React. 
+✅ - Alla sektioner ska vara indelade i komponenter.
+✅ - Alla formulär på sidan ska ha en enklare form av validering (innehåller det någon information).
+✅ - Du ska kunna hämta Testimonials och FAQ från webapiet.
+✅ - Din FAQ (accordion) ska fungera att växla mellan de olika boxarna.
+✅ - Det ska gå att växla mellan mörkt och ljust tema genom att använda switchen i headern.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+VG:
+✅ - Du måste ha två olika sidor som går att navigera mellan (Home + Contact). (***Jag har ej gjort klart contact sidan men det går att att navigera dit***)
+❌ - Sidorna måste vara responsiva. (***Jag har bara gjort Desktop Only med fast width på 1920px enligt figma***)
+❌ - En mobilanpassad meny måste finnas som fungerar. Design väljer du själv.
+❌ - Du ska använda dig av useState, useEffect och useContext på lämpliga ställen. (***Har bara använt useEffect & useState***)
+✅ - Alla formulär på sidan måste valideras med hjälp av regular expressions.
+✅ - Alla formulär ska kunna skicka iväg data till web apiet och sedan visa ett bekräftelsemeddelande på att formuläret skickats iväg eller att man registrerat sig för nyhetsbrev.
+
